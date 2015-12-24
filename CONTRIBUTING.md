@@ -13,3 +13,15 @@ If you'd like to request a change/feature:
 
 Again, raise and issue in the [issue tracker](https://github.com/Charlotteis/l33tsp34k/issues). Please feel free to
 make a pull request yourself!
+
+
+## Making a Pull Request
+
+* Fork this repository!
+* `npm install` within the repository folder to install all the necessary dependencies.
+* Make your changes
+* Make sure your work has a corresponding test!
+* Commit your work
+* [Make a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+
+Please adhere to the [standard](https://github.com/feross/standard) JavaScript styleguide. Your code will be linted automatically when you run `npm test`.
