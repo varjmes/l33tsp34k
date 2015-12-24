@@ -15,8 +15,8 @@
 ## Usage
 
 ```javascript
-var leet = require('l33tsp34k')
-var string = leet("I am a cyber crimer")
+let leet = require('l33tsp34k')
+let string = leet("I am a cyber crimer")
 console.log(string)
 
 // => 'I 4m 4 cyb3r cr1m3r'
