@@ -23,6 +23,7 @@
     "url": "https://github.com/Charlotteis/l33tsp34k/issues"
   },
   "homepage": "https://github.com/Charlotteis/l33tsp34k#readme",
+  "tonicExampleFilename": "./tonicExample.js",
   "devDependencies": {
     "nyc": "^5.0.1",
     "standard": "^5.4.1",
