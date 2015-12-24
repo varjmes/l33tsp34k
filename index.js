@@ -22,5 +22,5 @@ function leetspeak (input) {
   let stringInput = input.toString()
   let map = Array.prototype.map
 
-  return map.call(stringInput, char => convertToLeet(char)).join('')
+  return map.call(stringInput, convertToLeet).join('')
 }
