@@ -11,7 +11,7 @@ version of Node.js and version of npm.
 
 If you'd like to request a change/feature:
 
-Again, raise and issue in the [issue tracker](https://github.com/Charlotteis/l33tsp34k/issues). Please feel free to
+Again, raise an issue in the [issue tracker](https://github.com/Charlotteis/l33tsp34k/issues). Please feel free to
 make a pull request yourself!
 
 
